@@ -144,3 +144,20 @@ This project demonstrates:
 - execution-oriented AI (not just prediction)
 - dashboard-based product delivery
 - upstream data integration design (via simulated APIs)
+
+## Live Links
+
+- GitHub Repository: [AI-Commerce-Intelligence-Platform]((https://github.com/SohamSa/AI-Commerce-Intelligence-Platform/edit/main/README.md))
+- Live Streamlit App: [Open the App]((https://aicommerceintelligenceplatform.streamlit.app/))
+
+## What this project does
+
+This platform helps early-stage commerce businesses identify:
+- the best micro niche
+- the best platform
+- the best dense audience slice
+
+It then generates:
+- a final decision report
+- business recommendations
+- an AI execution plan
