@@ -94,6 +94,8 @@ simulated_source_pipeline/
 streamlit_app.py
 README.md
 
+```
+
 ## Architecture Overview
 
 This project is designed as an end-to-end intelligence system with clearly separated layers:
@@ -147,7 +149,7 @@ This project demonstrates:
 
 ## Live Links
 
-- GitHub Repository: [AI-Commerce-Intelligence-Platform]((https://github.com/SohamSa/AI-Commerce-Intelligence-Platform/edit/main/README.md))
+- GitHub Repository: [AI-Commerce-Intelligence-Platform]((https://github.com/SohamSa/AI-Commerce-Intelligence-Platform/))
 - Live Streamlit App: [Open the App]((https://aicommerceintelligenceplatform.streamlit.app/))
 
 ## What this project does
