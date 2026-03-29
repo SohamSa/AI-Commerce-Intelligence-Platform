@@ -1,13 +1,9 @@
 venv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 .env
-.ipynb_checkpoints/
 .DS_Store
-Thumbs.db
-*.log
-dist/
-build/
-.coverage
-.pytest_cache/
+
 .vscode/
