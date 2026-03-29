@@ -1,4 +1,5 @@
 import streamlit as st
+st.write("APP STARTED SUCCESSFULLY")
 import pandas as pd
 import joblib
 
